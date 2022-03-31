@@ -1,7 +1,7 @@
-# 💫About Me :
+﻿# 💫About Me :
 - 👋 Hi, I’m @FaRnaM-Hs
 - 👀 I’m interested in Java programming and Android developing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java (started on January 18, 2022)...
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farnam_hs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farnam-hs) 
